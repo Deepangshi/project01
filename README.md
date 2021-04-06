@@ -1,2 +1,2 @@
 # project01
-web page
+netflix landing page
